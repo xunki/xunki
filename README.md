@@ -1,6 +1,6 @@
 # 👨‍💻 𝐒𝐔𝐌𝐌𝐀𝐑𝐘
 
-I’m a Software Engineer, Passionate Programmer and GitHub (open source) contributor with more than seven years of professional experience in Enterprise Application and Software Development. 𝐌𝐨𝐫𝐞𝐨𝐯𝐞𝐫, 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬:
+I’m a Senior Software Engineer, Passionate Programmer and GitHub (open source) contributor with more than seven years of professional experience in Enterprise Application and Software Development. 𝐌𝐨𝐫𝐞𝐨𝐯𝐞𝐫, 𝐈 𝐡𝐚𝐯𝐞 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧 𝐭𝐡𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐟𝐢𝐞𝐥𝐝𝐬:
 
 * Software Architecture and Solution Design	
 * Database Design
