@@ -28,7 +28,7 @@ I’m a Senior Software Engineer, Passionate Programmer and GitHub (open source)
 **MVVM | MVC | REST API | Microservice | CQRS and Event Sourcing | Domain Driven Design | TDD**
 
 ## 𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝
-**HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Angular**
+**HTML5 | CSS3 | Bootstrap | JavaScript | jQuery | Vue2**
 
 ### 𝐎𝐭𝐡𝐞𝐫𝐬
 **Data Structures and Algorithms**
